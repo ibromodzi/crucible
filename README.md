@@ -1,6 +1,6 @@
 # Crucible - Agentic AI Startup Validator
 
-![Crucible Dashboard](landing page.png)
+![Crucible Dashboard](landing.png)
 
 **Crucible** is an advanced AI-powered platform designed to validate startup ideas. By leveraging agentic workflows and generative AI, it provides deep insights, market analysis, and actionable feedback to help entrepreneurs refine their concepts before writing a single line of code.
 
